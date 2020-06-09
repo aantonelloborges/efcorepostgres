@@ -1,0 +1,17 @@
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\EFCorePostgreSQL.deps.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\EFCorePostgreSQL.runtimeconfig.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\EFCorePostgreSQL.runtimeconfig.dev.json
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\EFCorePostgreSQL.dll
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\bin\Debug\netcoreapp2.2\EFCorePostgreSQL.pdb
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.AssemblyInfoInputs.cache
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.AssemblyInfo.cs
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.RazorAssemblyInfo.cache
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.RazorAssemblyInfo.cs
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.dll
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.pdb
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.genruntimeconfig.cache
+C:\Users\Administrador\projects\.net\postgresql-ef-core-master\EFCorePostgreSQL\obj\Debug\netcoreapp2.2\EFCorePostgreSQL.csproj.CoreCompileInputs.cache
